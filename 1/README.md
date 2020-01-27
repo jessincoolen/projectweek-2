@@ -2,7 +2,7 @@
 Bomb defusel groep 1
 ole en luca.
 
-Deze puzzel is verhaal/raadsel basedje leest een of ander verhaal/raadsel en er zijn icons die je in goeie volgorde moet drukken
+Deze puzzel is verhaal/raadsel based je leest een of ander verhaal/raadsel en er zijn icons die je in goeie volgorde moet drukken
 
 zin 1.  The man in de Wheelchair went to a park. there was a woman under a tree.
 
