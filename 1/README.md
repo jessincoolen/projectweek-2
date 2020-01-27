@@ -1,6 +1,6 @@
 # projectweek
 Bomb defusel groep 1
-xx ole en luca.
+ole en luca.
 
 Deze puzzel is verhaal/raadsel basedje leest een of ander verhaal/raadsel en er zijn icons die je in goeie volgorde moet drukken
 
