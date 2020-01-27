@@ -18,13 +18,7 @@ function Icon1(){
         clicked++;
     }
     else{
-        clicked = 0;
-        icon1 = false;
-        icon2 = false;
-        icon3 = false;
-        icon4 = false;
-        console.log("Level Failed")
-        console.log(clicked + icon1 + icon2 + icon3 + icon4)
+        Failed()
     }
 }
 
@@ -34,13 +28,7 @@ function Icon2(){
         clicked++;
     }
     else{
-        clicked = 0;
-        icon1 = false;
-        icon2 = false;
-        icon3 = false;
-        icon4 = false;
-        console.log("Level Failed")
-        console.log(clicked + icon1 + icon2 + icon3 + icon4)
+        Failed()
     }
 }
 
@@ -50,13 +38,7 @@ function Icon3(){
         clicked++;
     }
     else{
-        clicked = 0;
-        icon1 = false;
-        icon2 = false;
-        icon3 = false;
-        icon4 = false;
-        console.log("Level Failed")
-        console.log(clicked + icon1 + icon2 + icon3 + icon4)
+        Failed()
     }
 }
 
@@ -72,12 +54,16 @@ function Icon4(){
         console.log(clicked + icon1 + icon2 + icon3 + icon4)
     }
     else{
-        clicked = 0;
-        icon1 = false;
-        icon2 = false;
-        icon3 = false;
-        icon4 = false;
-        console.log("Level Failed")
-        console.log(clicked + icon1 + icon2 + icon3 + icon4)
+        Failed()
     }
+}
+
+function Failed(){
+    clicked = 0;
+    icon1 = false;
+    icon2 = false;
+    icon3 = false;
+    icon4 = false;
+    console.log("Level Failed")
+    console.log(clicked + icon1 + icon2 + icon3 + icon4)
 }
