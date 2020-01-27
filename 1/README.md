@@ -12,4 +12,4 @@ zin 2.
 1=3
 2=1
 
-zin 3 (raadsel).
+zin 3 (raadsel). 
