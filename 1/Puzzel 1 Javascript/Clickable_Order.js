@@ -45,6 +45,6 @@ function Icon4(){
         icon2 = false;
         icon3 = false;
         icon4 = false;
-        Debug.Log("Level Completed")
+        console.log("Level Completed")
     }
 }
