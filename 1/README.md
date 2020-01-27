@@ -11,3 +11,8 @@ zin 2.  The man in de Wheelchair went to a park. there was a woman under a tree.
 4=2
 1=3
 2=1
+
+woord1=man
+woord2=wheelchair
+woord3=woman
+woord4=tree
