@@ -1,7 +1,7 @@
 <?php
 session_start();
 //Set the countdown timer start time in seconds
-$_SESSION['clock'] = 65;
+$_SESSION['clock'] = 180;
 // Set the number of puzzles to solve (1 - 6)
 $_SESSION['NumberOfPuzzles'] = 1;
 // Number of puzzles solved (always 0)
@@ -33,7 +33,7 @@ The basic frameset filled with the level 1 components
                 </frameset>
                 <frameset rows='50%,50%' border='10'>
                     <frame name='center-middle-top' src='./nopuzzleframe.html' noresize scrolling='no'>					<!-- Casing: center top / puzzle game 2 -->
-                    <frame name='center-middle-bottom' src='./nopuzzleframe.html' noresize scrolling='no'>				<!-- Casing: center bottom / puzzle frame 3 -->
+                    <frame name='center-middle-bottom' src='./puzzle1.html' noresize scrolling='no'>				<!-- Casing: center bottom / puzzle frame 3 -->
                 </frameset>
                 <frameset rows='50%,50%' border='10'>
                     <frame name='center-right-top' src='./nopuzzleframe.html' noresize scrolling='no'>					<!-- Casing: upper right corner / puzzle frame 4 -->
