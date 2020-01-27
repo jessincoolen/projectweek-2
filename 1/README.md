@@ -8,8 +8,8 @@ zin 1.  The man in de Wheelchair went to a park. there was a woman under a tree.
 
 zin 2.  Down the river on the turns, the olden church were jacob burns.
 3=2
+2=4
 4=1
 1=3
-2=4
 
 Raadsel 3. 
