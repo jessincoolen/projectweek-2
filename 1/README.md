@@ -6,7 +6,9 @@ Deze puzzel is verhaal based yeet je leest een of ander verhaal en er zijn icons
 
 zin 1.  The man in de Wheelchair went to a park. there was a woman under a tree.
 
-zin 2.  
+Zin 2.
+
+zin 3.  
 3=4
 4=2
 1=3
