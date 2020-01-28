@@ -1,20 +1,156 @@
 <!DOCTYPE html>
 <head>
-    <title>
-        Medium 5 
-    </title>
-</head>
-<body>
-<img src=images/Piano.png usemap="#notes">
 
-<map name="notes">
-    <area shape="rect" coords="270,325,350,149" href="#">
-    <area shape="rect" coords="355,150,440,320" href="#">
-    <area shape="rect" coords="441,321,525,145" href="#">
-    <area shape="rect" coords="526,146,610,322" href="#">
-    <area shape="rect" coords="611,320,700,145" href="#">
-    <area shape="rect" coords="701,146,780,320" href="#">
-    <area shape="rect" coords="781,321,870,145" href="#">
-</map>
+<style>
+    body {
+        background-color: black;
+    } 
+
+    .C_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        z-index: 50;
+        background-color: white;
+        cursor: pointer;
+        left: 366px;
+        top: 142px;
+        
+    }
+    
+    .D_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 56px;
+        z-index: 51;
+        background-color: white;
+        cursor: pointer;
+        left: 369px;
+        top: 143px;
+    }
+
+    .E_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 111px;
+        z-index: 53;
+        background-color: white;
+        cursor: pointer;
+        left: 373px;
+        top: 143px;
+    }
+
+    .F_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 150px;
+        z-index: 54;
+        background-color: white;
+        cursor: pointer;
+        left: 392px;
+        top: 143px;
+    }
+
+    .G_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 167px;
+        z-index: 55;
+        background-color: white;
+        cursor: pointer;
+        left: 432px;
+        top: 143px;
+    }
+
+    .A_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 208px;
+        z-index: 56;
+        background-color: white;
+        cursor: pointer;
+        left: 452px;
+        top: 143px;
+    }
+
+    .B_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 238px;
+        z-index: 57;
+        background-color: white;
+        cursor: pointer;
+        left: 479px;
+        top: 143px;
+    }
+
+
+    </style>
+    </head>
+    <script>
+    var Cbleep = new Audio()
+    Cbleep.src ="Sound/C.wav";
+    
+    var Dbleep = new Audio()
+    Dbleep.src ="Sound/D.wav";
+
+    var Ebleep = new Audio()
+    Ebleep.src ="Sound/E.wav";
+
+    var Fbleep = new Audio()
+    Fbleep.src ="Sound/F.wav";
+
+    var Gbleep = new Audio()
+    Gbleep.src ="Sound/G.wav";
+
+    var Ableep = new Audio()
+    ableep.src ="/Sound/A.wav";
+
+    var Bbleep = new Audio()
+    bbleep.src ="/Sound/B.wav";
+    </script>
+
+    <body><center>
+
+        <button class ="C_Note" OnClick="Cbleep.play()">C</button>        
+        <button class ="D_Note" OnClick="Dbleep.play()">D</button>
+        <button class ="E_Note" OnClick="Ebleep.play()">E</button>
+        <button class ="F_Note" OnClick="Fbleep.play()">F</button>
+        <button class ="G_Note" OnClick="Gbleep.play()">G</button>
+        <button class ="A_Note" OnClick="Ableep.play()">A</button>
+        <button class ="B_Note" OnClick="Ableep.play()">B</button>
+
+
+
+<div id="div1"><h1><u><div><font color=white> Muziek Puzzle</font></div>    
+
+</center>
 </body>
-</html>
+</head>
