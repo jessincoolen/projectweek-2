@@ -33,7 +33,7 @@ The basic frameset filled with the level 1 components
                 </frameset>
                 <frameset rows='50%,50%' border='10'>
                     <frame name='center-middle-top' src='./nopuzzleframe.html' noresize scrolling='no'>					<!-- Casing: center top / puzzle game 2 -->
-                    <frame name='center-middle-bottom' src='puzzle_2/puzzle_2_a2.html' noresize scrolling='no'>				<!-- Casing: center bottom / puzzle frame 3 -->
+                    <frame name='center-middle-bottom' src='puzzel_2/puzzel_2.html' noresize scrolling='no'>				<!-- Casing: center bottom / puzzle frame 3 -->
                 </frameset>
                 <frameset rows='50%,50%' border='10'>
                     <frame name='center-right-top' src='puzzel_4/puzzel_2_a4.html' noresize scrolling='no'>					<!-- Casing: upper right corner / puzzle frame 4 -->
