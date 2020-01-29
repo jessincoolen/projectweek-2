@@ -1,19 +1,25 @@
 <!DOCTYPE html>
 <html>
-    <title>
-        Puzzel 4 
-    </title>
-<head>
-    <script type="text/javascript">
+    <body style="background-color:black">
 
-    	function change () {
-    		var image = document.getElementById('bb1');
-    		image.src = "images/button3.2.png"
-    	}
+        <img id ="imageOne" src ="images/button3.1.png" onclick = "changeColor()"/>
 
-    </script>
-</head>
-<body style="background-color:black">
-	<img src="images/button3.1.png" alt="blue button 1" id="bb1" onclick="change() ;">
-</body>
+        <script>
+            var image =  document.getElementById("imageOne");
+
+            function changeColor()
+            {
+                if (image.getAttribute('src') == "images/button3.1.png")
+                {
+                    image.src = "images/button3.3.png";
+                }
+                else
+                {
+                    image.src = "images/button3.2.png";
+                }
+
+            }
+
+        </script>
+    </body>
 </html>
