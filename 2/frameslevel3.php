@@ -29,15 +29,15 @@ The basic frameset filled with the level 1 components
                 <frame name='casing-left' src='./casingborder.html' noresize scrolling='no'>							<!-- Casing: border leftside -->
                 <frameset rows='50%,50%' border='10'>
                     <frame name='center-left-top' src='./countdown.php' noresize scrolling='no'>					<!-- Casing: upper left corner / timer frame -->
-                    <frame name='center-left-bottom' src='puzzel_1/puzzel_2_a1_completed.html' noresize scrolling='no'>				<!-- Casing: lower left corner / puzzle game 1 -->
+                    <frame name='center-left-bottom' src='puzzel_1/puzzel_2.html' noresize scrolling='no'>				<!-- Casing: lower left corner / puzzle game 1 -->
                 </frameset>
                 <frameset rows='50%,50%' border='10'>
                     <frame name='center-middle-top' src='./nopuzzleframe.html' noresize scrolling='no'>					<!-- Casing: center top / puzzle game 2 -->
-                    <frame name='center-middle-bottom' src='puzzel_4/puzzel_2_a4_completed.html' noresize scrolling='no'>				<!-- Casing: center bottom / puzzle frame 3 -->
+                    <frame name='center-middle-bottom' src='puzzel_2/puzzel_2.html' noresize scrolling='no'>				<!-- Casing: center bottom / puzzle frame 3 -->
                 </frameset>
                 <frameset rows='50%,50%' border='10'>
-                    <frame name='center-right-top' src='./nopuzzleframe.html' noresize scrolling='no'>					<!-- Casing: upper right corner / puzzle frame 4 -->
-                    <frame name='center-right-bottom' src='puzzel_3/puzzel_2_a3.html' noresize scrolling='no'>				<!-- Casing: lower right corner / puzzle frame 5 -->
+                    <frame name='center-right-top' src='puzzel_4/puzzel_2_a4.html' noresize scrolling='no'>					<!-- Casing: upper right corner / puzzle frame 4 -->
+                    <frame name='center-right-bottom' src='./nopuzzleframe.html' noresize scrolling='no'>				<!-- Casing: lower right corner / puzzle frame 5 -->
                 </frameset>
                 <frame name='casing-rigth' src='./casingborder.html' noresize scrolling='no'>							<!-- Casing: border right -->
             </frameset>

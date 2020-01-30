@@ -22,8 +22,8 @@ and open the template in the editor.
     <center>
         <table width='40%' bgcolor='whitesmoke'>
             <tr><td align='center'><h1><b>BOMB DEFUSAL SQUAD</B><h1></td></tr>
-            <tr><td align='center'><a href='#'><h2>Level 1</h2></a></td></tr>
-            <tr><td align='center'><a href='frameslevel1.php'><h2>Level 2</h2></a></td></tr>
+            <tr><td align='center'><a href='frameslevel1.php'><h2>Level 1</h2></a></td></tr>
+            <tr><td align='center'><a href='frameslevel2.php'><h2>Level 2</h2></a></td></tr>
             <tr><td align='center'><a href='frameslevel3.php'><h2>Level 3</h2></a></td></tr>
             <tr><td align='center'><a href='frameslevel4.php'><h2>Level 4</h2></a></td></tr>
             <tr><td align='center'><a href='frameslevel5.php'><h2>Level 5</h2></a></td></tr>
