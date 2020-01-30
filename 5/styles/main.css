@@ -1,5 +1,109 @@
-#toonladder-hard{
- float: right;
-}
+.body5 {
+        background-color: black;
+    } 
 
+    .C_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        z-index: 50;
+        background-color: white;
+        cursor: pointer;
+        left: 366px;
+        top: 142px;
+        
+    }
+    
+    .D_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 56px;
+        z-index: 51;
+        background-color: white;
+        cursor: pointer;
+        left: 369px;
+        top: 143px;
+    }
+
+    .E_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 111px;
+        z-index: 53;
+        background-color: white;
+        cursor: pointer;
+        left: 373px;
+        top: 143px;
+    }
+
+    .F_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 150px;
+        z-index: 54;
+        background-color: white;
+        cursor: pointer;
+        left: 392px;
+        top: 143px;
+    }
+
+    .G_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 167px;
+        z-index: 55;
+        background-color: white;
+        cursor: pointer;
+        left: 432px;
+        top: 143px;
+    }
+
+    .A_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 208px;
+        z-index: 56;
+        background-color: white;
+        cursor: pointer;
+        left: 452px;
+        top: 143px;
+    }
+
+    .B_Note{
+        color:black;
+        position: absolute;
+        padding-top: 258px;
+        padding-bottom: 20px;
+        padding-right: 20px;
+        padding-left: 20px;
+        margin-left: 238px;
+        z-index: 57;
+        background-color: white;
+        cursor: pointer;
+        left: 479px;
+        top: 143px;
+    }
 
