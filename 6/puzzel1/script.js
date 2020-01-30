@@ -1,7 +1,4 @@
-/**
-/* Written by Eugene Kardash in August 2019
-/* eugene@kardash.net
-*/
+
 var movesNum; // number of moves initiated by user
 var movescell = document.getElementById("movesnum"); // where # of moves are displayed
 
