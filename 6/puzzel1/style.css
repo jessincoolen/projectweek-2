@@ -49,10 +49,8 @@
   
   figure > figcaption {
     font-style: italic;
-    font-size: 1.1rem;
-    /*text-indent: 1rem;*/
+    font-size: 1.1rem;                                        /*text-indent: 1rem;*/
     padding: 0.5rem 1rem;
-  
     position: fixed;
     bottom: 5px;
     background: rgba(255, 255, 255, 0.6);
